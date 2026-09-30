@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q0X2OQQBQFk=",
+  "success": true,
+  "projectFilePath": "/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task5.V2/Tyuiu.TachutdinovVI.Sprint1.Task5.V2.csproj",
+  "expectedPackageFiles": [
+    "/Users/vlad/.nuget/packages/microsoft.netcore.app.ref/8.0.30/microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.30/microsoft.netcore.app.host.osx-arm64.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
