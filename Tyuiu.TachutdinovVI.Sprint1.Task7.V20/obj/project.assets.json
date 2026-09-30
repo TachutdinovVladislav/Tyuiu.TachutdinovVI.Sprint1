@@ -1,0 +1,112 @@
+{
+  "version": 4,
+  "targets": {
+    "net8.0": {
+      "Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib/1.0.0": {
+      "type": "project",
+      "path": "../Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib/Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib.csproj",
+      "msbuildProject": "../Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib/Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/vlad/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task7.V20/Tyuiu.TachutdinovVI.Sprint1.Task7.V20.csproj",
+      "projectName": "Tyuiu.TachutdinovVI.Sprint1.Task7.V20",
+      "projectPath": "/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task7.V20/Tyuiu.TachutdinovVI.Sprint1.Task7.V20.csproj",
+      "packagesPath": "/Users/vlad/.nuget/packages/",
+      "outputPath": "/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task7.V20/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/vlad/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib/Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib.csproj": {
+              "projectPath": "/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib/Tyuiu.TachutdinovVI.Sprint1.Task7.V20.Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net8.0": {
+        "framework": "net8.0",
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.30, 8.0.30]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.30, 8.0.30]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.30, 8.0.30]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
