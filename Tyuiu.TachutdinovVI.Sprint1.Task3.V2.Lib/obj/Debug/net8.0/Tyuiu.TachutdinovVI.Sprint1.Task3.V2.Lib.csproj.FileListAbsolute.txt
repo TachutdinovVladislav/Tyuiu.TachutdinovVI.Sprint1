@@ -1,0 +1,15 @@
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.deps.json
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.dll
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.pdb
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/bin/Debug/net8.0/tyuiu.cources.programming.interfaces.dll
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.csproj.AssemblyReference.cache
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.AssemblyInfoInputs.cache
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.AssemblyInfo.cs
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.csproj.CoreCompileInputs.cache
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.sourcelink.json
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/Tyuiu.Ta.32BB1A6F.Up2Date
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.dll
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/refint/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.dll
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.pdb
+/Users/vlad/RiderProjects/Tyuiu.TachutdinovVI.Sprint1/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib/obj/Debug/net8.0/ref/Tyuiu.TachutdinovVI.Sprint1.Task3.V2.Lib.dll
